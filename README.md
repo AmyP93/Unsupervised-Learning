@@ -27,7 +27,7 @@ You are on the Advisory Services Team of a financial consultancy. One of your cl
 
 **0.99 components**
 
-![scatter](scatter.png)
+![scatter](scatter.PNG)
 
 **0.90 components**
 
@@ -39,16 +39,16 @@ You are on the Advisory Services Team of a financial consultancy. One of your cl
 
 **k-Means at .99 components**
 
-![inertia](inertia.png)
+![inertia](inertia.PNG)
 
-![elbow](elbow.png)
+![elbow](elbow.PNG)
 
 
 **k-Means at .90 components**
 
-![inertia90](inertia90.png)
+![inertia90](inertia90.PNG)
 
-![elbow90](elbow90.png)
+![elbow90](elbow90.PNG)
 
 
 ### Recommendation
