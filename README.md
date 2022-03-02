@@ -27,11 +27,11 @@ You are on the Advisory Services Team of a financial consultancy. One of your cl
 
 **0.99 components**
 
-![scatter](images/scatter.png)
+![scatter](scatter.png)
 
 **0.90 components**
 
-![scatter](images/scatter90.png)
+![scatter90](scatter90.png)
 
 ### Cluster Analysis with k-Means
 
@@ -39,16 +39,16 @@ You are on the Advisory Services Team of a financial consultancy. One of your cl
 
 **k-Means at .99 components**
 
-![inertia](images/inertia.png)
+![inertia](inertia.png)
 
-![elbow](images/elbow.png)
+![elbow](elbow.png)
 
 
 **k-Means at .90 components**
 
-![inertia](images/inertia90.png)
+![inertia90](inertia90.png)
 
-![elbow](images/elbow90.png)
+![elbow90](elbow90.png)
 
 
 ### Recommendation
