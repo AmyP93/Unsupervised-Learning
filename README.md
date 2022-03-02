@@ -26,7 +26,6 @@ You are on the Advisory Services Team of a financial consultancy. One of your cl
 * Further reduced the dataset dimensions with t-SNE, (only one distinct cluster)
 
 **0.99 components**
-
 ![scatter](images/scatter.png)
 
 **0.90 components**
